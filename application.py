@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from flask import Flask, redirect, url_for, render_template, request, session, jsonify
 from flask_bootstrap import Bootstrap
 import json
